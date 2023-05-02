@@ -3,7 +3,7 @@ title = "La carte postale sonore de Luis"
 date = "2023-05-01"
 draft = false
 pinned = false
-tags = ["#cartepostale#école"]
+tags = ["#cartepostale", "#école"]
 description = "\n"
 +++
 En école, nous avons réçu la tâche d'enregistrer une carte postale sonore. Mais qu'est-ce que c'est, une carte postale sonore?
