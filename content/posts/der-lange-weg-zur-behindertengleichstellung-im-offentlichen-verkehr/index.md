@@ -5,6 +5,8 @@ draft = false
 pinned = false
 tags = ["Deutsch", "Reportage", "öV", "Gleichstellung"]
 +++
+![Abbildung 1: Ein Einstieg für Menschen im Rollstuhl ist bei diesem Bahnwagen unmöglich – sowohl die Trittstufen als auch die Türbreite tragen dazu bei](ewieinstieg.jpg)
+
 `{{</*lead*/>}}`
 
 2004 wurde in der Schweiz ein neues Gesetz beschlossen, welches das alltägliche Leben für Menschen mit Beeinträchtigung erheblich erleichtern sollte. Doch bei dessen Umsetzung hapert es noch. Warum ist das so? Dieser Frage haben wir uns in dieser Reportage angenommen.\
@@ -51,6 +53,8 @@ Zudem hatten wir auch die Möglichkeit, ein Interview mit der Leiterin der Abtei
 
 Die Schweiz ist bekannt für ihren herausragenden öffentlichen Verkehr. Dazu gehört auch, dass sich die Infrastruktur stets in einem guten Zustand befindet. Um nun bei den barrierefreien Ausbauten nicht unnötiges Geld auszugeben, wird ein Bahnhof beispielsweise erst dann saniert, wenn er sich in einem Zustand befindet, wo eine Sanierung nicht mehr aufschiebbar ist. Zudem erfordert die Barrierefreiheit je nach Projekt mehr oder weniger tiefgreifende Umbauten: Manchmal reicht ein neuer Bahnsteig, manchmal müssen zudem noch neue Perronzugänge (beispielsweise Unterführungen oder Passerellen) erbaut werden. Und je grösser ein Umbau ist, desto länger dauert die Planung.
 
+![Abbildung 2: Bei diesem Fahrzeug ist ein Einstieg mit Rollstuhl problemlos möglich.](capricorn.jpg)
+
 Somit ist klar - die Behindertengerechtigkeit kommt nicht nur den beeinträchtigten Personen zugute, auch beispielsweise Personen mit schwerem Gepäck, Schwangere oder Eltern mit Kinderwagen werden durch barrierefreies Reisen entlastet.
 
 **Die Stimme von Inclusion Handicap**
@@ -63,8 +67,6 @@ Der Tenor vonseiten Inclusion Handicap ist klar: Bei der Umsetzung des BehiG wur
 
 Aber was kann Inclusion Handicap tun, damit die Rechte von Menschen mit Behinderungen ernst genommen werden? Organisationen wie Inclusion Handicap haben das Verbandsklagerecht, welches anerkannten Verbänden ermöglicht, im Namen betroffener Personen juristische Schritte einzuleiten.
 
-
-
 **Die Realität vor Ort: Erfahrungen auf einer Tagesreise durch die Schweiz**
 
 Doch wie sieht der Umbaustand aktuell aus, wenn man eine Tagesreise durch die Schweiz unternimmt? Ich – Luis – unternahm am 7. Mai eine Reise durch die Schweiz von Bern auf den Berninapass.
@@ -74,6 +76,8 @@ Um es vorneweg zu nehmen: Die von mir festgehaltenen Eindrücke sind keineswegs 
 BehiG-seitige, erste Mängel fallen schon bald auf: am Bahnhof Bern. Dort ist ein autonomer Einstieg von beeinträchtigten Personen mangels genügend hoher Perronkanten in den meisten Fällen nicht möglich. Immerhin: Die Modernisierungsarbeiten dieses Bahnhofs laufen bereits, die hintersten Gleise sind bereits vollkommen hindernisfrei nutzbar.
 
 Um 06:02 verliess mein Intercity den Bahnhof Bern, nächster Halt ist Zürich. Der Zug – er hört auf den Namen IC2000 und wurde Ende der 90er-Jahre gebaut – ist durchwegs mit niederflurigen Einstiegen versehen, ein Rollstuhlabteil mit behindertengerechtem WC findet sich allerdings nur in einem Wagen am Zugsende. Diese Wagen werden aktuell modernisiert und dabei werden auch weitere Wagen vollständig behindertengerecht ausgestattet. Der Unterschied zwischen den beiden Bahnhöfen ist frappant wie Tag und Nacht. In Zürich sind nämlich sämtliche Zugänge zu den Zügen vollkommen hindernisfrei nutzbar und alle Perrons sind mit der erforderlichen Perronhöhe von 55cm ausgestattet. In Zürich muss allerdings auf einen Zug umgestiegen werden, welcher reinweg Einstiege mit hohen Trittstufen unmöglich macht – als beeinträchtigte Person im Rollstuhl, mit der Absicht diesen Zug zu nutzen, muss man sich im Voraus anmelden. Allerdings ist auf der Relation Zürich-Chur genügend Auswahl mit sich überschneidenden Linien vorhanden, sodass auch hier das hindernisfreie Reisen gewährleistet ist.
+
+![Abbildung 3: In diesem Bahnhof ist das Perron zu tief, um einen behindertengerechten Einstieg zu gewährleisten.](berninasuot.jpg)
 
 In Chur wird erneut umgestiegen: Auf die RhB – ausgeschrieben Rhätische Bahn, auch bekannt als «die kleine Rote». Der Zug, den ich von Chur bis St. Moritz nutze, ist seit dem Jahr 2017 im Bündnerland unterwegs und besitzt auch in zwei Wagen niederflurige Einstiege mit Rollstuhlabteilen – somit wird auch hier dem BehiG Rechnung getragen. Diese Bahn ist weit über die Landesgrenzen bekannt, kann sie doch mit Panoramazügen aufwarten, welche klingende Namen wie «Glacier Express» oder «Bernina Express» tragen, ferner ist die Albula- und Berninalinie seit 2008 mit dem UNESCO-Weltkulturerbetitel geschützt.
 
@@ -86,5 +90,7 @@ Deutlich ist zudem erkennbar, wie die Prioritäten landauf landab grösstenteils
 **Wie geht es nun weiter?**
 
 Von Seiten des BAV sind für Transportunternehmen, die das BehiG nicht rechtzeitig umsetzen, keine Strafen vorgesehen. «Das Gesetz erlaubt es nicht, dass das BAV Strafen aussprechen könnte, aber die Behindertenverbände oder einzelne Personen haben ein Klage- oder ein Verbandsbeschwerderecht», sagt Herr Müller. Einzel- und Verbandsbeschwerden mögen auf den ersten Blick vielleicht harmlos klingen, allerdings gab es in der Vergangenheit bereits eine Klage von Inclusion Handicap gegen die SBB: Bei den neuen, ab 2013 gelieferten Twindexx-Zügen der SBB wurden nämlich einige Mängel festgestellt, welche beeinträchtigten Personen das Benützen dieses Zuges erschwerten. Das Entdecken dieser Mängel führte dann zu einem Prozess, welcher sich über fast 2 Jahre hinzog. Am Ende bekam Inclusion Handicap vor Gericht Recht, was einen gewaltigen Sieg für diese Organisation bedeutet.
+
+![Abbildung 4: Im städtischen Nahverkehr ist die BehiG-Umsetzung weit fortgeschritten, wie hier beim RBS.](rbs.jpg)
 
 Doch wann werden die BehiG-Ausbauten abgeschlossen sein? Darauf weiss auch Michael Müller keine Antwort. «Es gibt kein Datum. Für diesen Bahnhof gilt vielleicht dieses Jahr, für diese Bahnunternehmung gilt ein anderes Jahr.» Somit kann man nur eines sagen: Die Umsetzung befindet sich zwar im Verzug, trotzdem geht es weiterhin vorwärts.
