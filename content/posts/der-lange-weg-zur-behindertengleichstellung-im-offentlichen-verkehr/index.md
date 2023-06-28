@@ -2,7 +2,7 @@
 title = "Der lange Weg zur Behindertengleichstellung im öffentlichen Verkehr"
 date = "2023-06-28"
 draft = false
-pinned = false
+pinned = true
 tags = ["Deutsch", "Reportage", "öV", "Gleichstellung"]
 +++
 ![Abbildung 1: Ein Einstieg für Menschen im Rollstuhl ist bei diesem Bahnwagen unmöglich – sowohl die Trittstufen als auch die Türbreite tragen dazu bei](ewieinstieg.jpg)
