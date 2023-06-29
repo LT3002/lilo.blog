@@ -2,9 +2,10 @@
 title = "Der lange Weg zur Behindertengleichstellung im öffentlichen Verkehr"
 date = "2023-06-29"
 draft = false
-pinned = false
+pinned = true
 tags = ["M25c", "Reportage", "Deutsch", "Gleichstellung", "öV"]
 image = "ewi.jpg"
+description = "Eine Reportage über die Umsetzung des Behindertengleichstellungsgesetzes (BehiG) mit Fokus auf den öffentlichen Verkehr, geschrieben von Ernesto Mellado und Luis Tschirren.\n"
 +++
 {{<lead>}}
 
