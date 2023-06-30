@@ -30,13 +30,15 @@ Die Umbauten der Infrastruktur sind oftmals sehr tiefgreifend – in den meisten
 
 «Die BehiG-Umbaumassnahmen sind relativ tiefgreifende Massnahmen. Es braucht neue Bahnhofzugänge, Erhöhungen von Perrons, teilweise breitere Perrons und Sicherheitsmassnahmen. All das sind Baumassnahmen, welche tief in das Geschehen eines Bahnhofes eingreifen.», sagt Herr Müller.
 
-``
+`{{<box title="Wen haben wir interviewt?">}}`
 
 Michael Müller ist seit April 2019 Mediensprecher des BAV.  Er studierte Geschichte und Politikwissenschaft an der Universität Bern. Seine Karriere begann als Politologe und Historiker, später dann als Redaktor bei der Tageszeitung «Der Bund», und anschliessend als Informationsbeauftragter im Bundesamt für Strassen. 
 
 Zudem hatten wir auch die Möglichkeit, ein Interview mit der Leiterin der Abteilung Gleichstellung bei Inclusion Handicap, Caroline Hess-Klein zu führen. Sie studierte Jura und hat in dieser Fakultät auch einen Doktortitel erlangt.  Inclusion Handicap setzt sich für die Sensibilisierung der Gesellschaft und die Schaffung von barrierefreien Umgebungen ein. Sie ist die Dachorganisation der Schweizer Behindertenorganisationen, oder auch «die vereinte Stimme der 1.7 Millionen Menschen mit Behinderungen in der Schweiz», wie auf deren Website zu lesen ist. Daher setzen sie sich auch sehr stark für die Umsetzung des BehiG ein.
 
-``
+{{</box>}}
+
+`{{<box title="Interview mit Herr Müller vom BAV">}}`
 
 **Interview mit Herr Müller vom BAV:**
 
@@ -50,7 +52,7 @@ Zudem hatten wir auch die Möglichkeit, ein Interview mit der Leiterin der Abtei
 
 *Herr Müller: Nein, das gibt es nicht. Es gibt die Frist, die Ende 2023 ausläuft. Wenn die Massnahmen bis dann nicht umgesetzt werden können, müssen die Bahnen eine Ersatzlösung anbieten. In der Regel ist das eine Hilfestellung durch das Personal.*
 
-``
+{{</box>}}
 
 Die Schweiz ist bekannt für ihren herausragenden öffentlichen Verkehr. Dazu gehört auch, dass sich die Infrastruktur stets in einem guten Zustand befindet. Um nun bei den barrierefreien Ausbauten nicht unnötiges Geld auszugeben, wird ein Bahnhof beispielsweise erst dann saniert, wenn er sich in einem Zustand befindet, wo eine Sanierung nicht mehr aufschiebbar ist. Zudem erfordert die Barrierefreiheit je nach Projekt mehr oder weniger tiefgreifende Umbauten: Manchmal reicht ein neuer Bahnsteig, manchmal müssen zudem noch neue Perronzugänge (beispielsweise Unterführungen oder Passerellen) erbaut werden. Und je grösser ein Umbau ist, desto länger dauert die Planung.
 
