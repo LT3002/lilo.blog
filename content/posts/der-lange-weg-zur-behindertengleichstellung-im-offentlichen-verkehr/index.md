@@ -30,7 +30,11 @@ Die Umbauten der Infrastruktur sind oftmals sehr tiefgreifend – in den meisten
 
 «Die BehiG-Umbaumassnahmen sind relativ tiefgreifende Massnahmen. Es braucht neue Bahnhofzugänge, Erhöhungen von Perrons, teilweise breitere Perrons und Sicherheitsmassnahmen. All das sind Baumassnahmen, welche tief in das Geschehen eines Bahnhofes eingreifen.», sagt Herr Müller.
 
-`{{<box title="Wen haben wir interviewt?">}}`
+> «Die BehiG-Umbaumassnahmen sind relativ tiefgreifende Massnahmen. Es braucht neue Bahnhofzugänge, Erhöhungen von Perrons, teilweise breitere Perrons und Sicherheitsmassnahmen. All das sind Baumassnahmen, welche tief in das Geschehen eines Bahnhofes eingreifen.», sagt Herr Müller.
+
+{{<box>}}
+
+**Wen haben wir interviewt?**
 
 Michael Müller ist seit April 2019 Mediensprecher des BAV.  Er studierte Geschichte und Politikwissenschaft an der Universität Bern. Seine Karriere begann als Politologe und Historiker, später dann als Redaktor bei der Tageszeitung «Der Bund», und anschliessend als Informationsbeauftragter im Bundesamt für Strassen. 
 
