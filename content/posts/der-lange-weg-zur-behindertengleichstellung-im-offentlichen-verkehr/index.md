@@ -3,7 +3,7 @@ title = "Der lange Weg zur Behindertengleichstellung im öffentlichen Verkehr"
 date = "2023-06-28"
 draft = false
 pinned = true
-tags = ["Deutsch", "Reportage", "öV", "Gleichstellung"]
+tags = ["Deutsch"]
 image = "ewieinstieg.jpg"
 +++
 ![]()
