@@ -8,9 +8,11 @@ image = "ewieinstieg.jpg"
 +++
 ![]()
 
-``
+{{<lead>}}
 
 2004 wurde in der Schweiz ein neues Gesetz beschlossen, welches das alltägliche Leben für Menschen mit Beeinträchtigung erheblich erleichtern sollte. Doch bei dessen Umsetzung hapert es noch. Warum ist das so? Dieser Frage haben wir uns in dieser Reportage angenommen.
+
+{{</lead>}}
 
 **Von Luis Tschirren und Ernesto Mellado Garcia**
 
@@ -33,7 +35,6 @@ Die Umbauten der Infrastruktur sind oftmals sehr tiefgreifend – in den meisten
 Michael Müller ist seit April 2019 Mediensprecher des BAV.  Er studierte Geschichte und Politikwissenschaft an der Universität Bern. Seine Karriere begann als Politologe und Historiker, später dann als Redaktor bei der Tageszeitung «Der Bund», und anschliessend als Informationsbeauftragter im Bundesamt für Strassen. 
 
 Zudem hatten wir auch die Möglichkeit, ein Interview mit der Leiterin der Abteilung Gleichstellung bei Inclusion Handicap, Caroline Hess-Klein zu führen. Sie studierte Jura und hat in dieser Fakultät auch einen Doktortitel erlangt.  Inclusion Handicap setzt sich für die Sensibilisierung der Gesellschaft und die Schaffung von barrierefreien Umgebungen ein. Sie ist die Dachorganisation der Schweizer Behindertenorganisationen, oder auch «die vereinte Stimme der 1.7 Millionen Menschen mit Behinderungen in der Schweiz», wie auf deren Website zu lesen ist. Daher setzen sie sich auch sehr stark für die Umsetzung des BehiG ein.
-
 
 ``
 
