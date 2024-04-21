@@ -1,164 +1,27 @@
 +++
-title = "Example Post"
+title = "Blogeintrag zum kritischen Denken"
 date = "2023-01-01"
 draft = false
 pinned = false
-tags = [ "Lilo", "Example" ]
-image = "/img/default-image.jpg"
-description = "In diesem Artikel werden Möglichkeiten aufgezeigt für das Verfassen von Blogeinträgen."
-footnotes = "In der Fusszeile können zum Beispiel Bildquellen angegeben werden. Dieser Text ist abgetrennt durch eine Linie und etwas kleiner."
+tags = ["Deutsch", "KritischesDenken"]
+image = ""
+description = ""
+footnotes = ""
 +++
+# Kritisches Denken: Was ist das überhaupt?
 
-{{<lead>}}
-In diesem Artikel werden Möglichkeiten aufgezeigt für das Verfassen von Blogeinträgen.
-{{</lead>}}
+### Kritisches Denken ist aktuell wichtiger denn je: Verschwörungstheorien auf der einen Seite, Fake-News auf der Anderen. Und irgendwo dazwischen muss es uns dennoch gelingen, Spreu von Weizen, beziehungsweise Wahrheit von Lüge zu trennen.
 
-Tipp: Um diesen Blogartikel zu behalten, ohne ihn zu löschen, kann man den **Entwurfsmodus** einschalten.
+## Der Mittelweg
 
-# Überschrift 1
+Zwei wichtige Begriffe haben uns begleitet: Der Nihilismus und der Dogmatismus. Diese beiden Begriffe beschreiben zwei Extreme, zwischen welchen es einen Mittelweg zu finden gilt. Der Nihilismus beschreibt die Ablehnung jeglicher Wahrheit. Da der Kern des kritischen Denkens darin besteht, die Wahrheit zu finden, ist der Nihilismus aufgrund seiner Ablehnung einer jeden Wahrheit nicht mit dem kritischen Denken vereinbar. Doch auch der Dogmatismus, das Gegenteil des Nihilismus, eckt gegenüber dem kritischen Denken an. Unter dem Begriff Dogma versteht man einen feste Aussage, deren Wahrheitsanspruch als indiskutabel und unumstösslich angesehen wird. Auch der Dogmatismus ist nicht vereinbar mit dem kritischen Denken, da mit dem kritischen Denken zu einem gesunden Mass auch bestehendes hinterfragt werden soll. Und so kristallisiert sich das kritische Denken als Mittelweg zwischen Dogmatismus und Nihilismus heraus: Eine absolute, nicht hinterfragte Wahrheit wird hinterfragt, doch auch das kategorische Ablehnen von Wahrheiten wird nicht praktiziert.
 
-So sieht die grösste Überschrift aus (H1).
+Wir Menschen neigen insbesondere bei unangenehmen Themen dazu, uns die Sachen so auszulegen, dass sie unsere Bedürfnisse zufriedenstellen. Und genau hier kommen die logischen Fehlschlüsse und kognitiven Verzerrungen ins Spiel. Beim kritischen Denken ist es essenziell, diese zu minimieren. Ansonsten verfangen wir uns schnell in einem Netz von Fehlern und Manipulationen. Bei den logischen Fehlschlüssen existieren zwei Subkategorien: die formalen und die informalen Fehlschlüsse. Die formalen Fehlschlüsse betreffen nur die logische Struktur des Arguments, die informalen Fehlschlüsse hingegen dessen inhaltliche Qualität. Beim Abarbeiten des Skripts zum Thema kritisches Denken merkte ich auch selbst bei mir, dass ich mit solchen Fehlschlüssen mehr zu tun habe, als ich bisher angenommen habe. Doch auch die kognitiven Verzerrungen haben noch eine Erläuterung zugute: Sie kommen durch Heuristiken zustande, also durch Methoden, welche trotz begrenztem Wissen und begrenzter Zeit zu praktikablen Lösungen kommen. Heuristiken arbeiten oftmals mit individuellen Schlussfolgerungen, welche logischerweise von der jeweiligen Person abhängig sind und so faktisch komplett falsch sein können, der urhebenden Person aber dennoch das Gefühl geben, nun eine objektive Lösung erhalten zu haben. Kurz gesagt: Mit kognitiven Verzerrungen täuschen wir uns systematisch selber. Die beiden erwähnten Begriffe werde ich nun anhand von einem Beispiel erläutern.
 
-## Überschrift 2
+## Kritisches Denken in der Anwendung – oder nicht?
 
-Dies ist die Überschrift 2 (H2).
-
-### Überschrift 3
-
-Die Überschrift 3 ist nicht mehr im Menu verfügbar. Wenn man sie verwenden will, muss man in den `Markdown`-Modus wechseln und dort eine Überschrift mit drei Hastags einleiten: `### Überschrift 3`
-
-#### Überschrift 4
-
-Auch Überschrift 4 muss im `Markdown`-Modus erstellt werden: `#### Überschrift 4`
-
-## Weitere Textformatierungen
-
-Am besten einfach alle Formatierungsmöglichkeiten in der Toolbar von `Inhalt` mal ausprobieren.
-
-### Fett und Kursiv
-
-Natürlich gibt es auch **fett** und _kursiv_.
-
-### Links
-
-[So können Links angegeben werden](https://www.lilo.blog). Wenn man in den `Markdown`-Modus wechselt, sieht man auch, welcher Link hinterlegt worden ist.
-
-### Zitate
-
-> «Zitate können hervorgehoben werden.»
->
-> _Autor mit [Link zur Quelle](https://www.lilo.blog)_
-
-Die Quellenangabe muss _kursiv_ geschrieben werden, damit sie als Fusszeile erkannt wird.
-
-### Liste
-
-So sieht eine Liste aus:
-
-- Nam de isto magna dissensio est.
-- Mihi, inquam, qui te id ipsum rogavi?
-- Haec et tu ita posuisti, et verba vestra sunt.
-- Idem fecisset Epicurus, si sententiam hanc, quae nunc Hieronymi est, coniunxisset cum Aristippi vetere sententia.
-
-### Nummerierte Liste
-
-Und so eine nummerierte Liste:
-
-1. Nam de isto magna dissensio est.
-2. Mihi, inquam, qui te id ipsum rogavi?
-3. Haec et tu ita posuisti, et verba vestra sunt.
-4. Idem fecisset Epicurus, si sententiam hanc, quae nunc Hieronymi est, coniunxisset cum Aristippi vetere sententia.
-
-## Bilder
-
-Bilder werden mit dem `+`-Symbol eingefügt.
-
-![Der Alt-Text wird jeweils als Bildunterschrift angezeigt.](/img/default-image.jpg)
-
-**Empfehlung für Bilder**: Meist empfiehlt sich, ein Bild ganz zuoberst im `Inhalt`-Feld einzufügen. Zusätzlich sollte man dieses auch im `Bild`-Feld angeben, damit es in der Blogübersicht erscheint.
-
-### Tipps zu Bildgrössen
-
-Ein Richtwert für Bilder ist, dass diese wenn möglich nicht grösser als `400kb` sein sollten. Man kann sie so verkleinern, dass die Breite höchstens `1200px` gross ist. Dies ist für die meisten Bildschirme mehr als genug.
-
-### Bildunterschrift
-
-Wenn bei einem Bild ein `ALT TEXT` erfasst wird, so wird dieser als Bildunterschrift im Artikel angezeigt.
-
-## Horizontale Linie
-
-Eine Horizontale Linie kann man entweder durch ein `<hr>` einfügen oder indem man im `Markdown`-Modus drei Striche `---` einfügt. So sieht die Linie aus:
-
----
-
-## Lead
-
-{{<lead>}}
-Oft haben Artikel unterhalb des Haupttitels einen einführenden Lead, der etwas grösser dargestellt wird.
-{{</lead>}}
-
-`{{</*lead*/>}}`  
-Ein Lead steht zwischen zwei solchen Blöcken.  
-`{{</*/lead*/>}}`
-
-## Kasten
+Während meinem Praktikum in Poschiavo hatte ich ein spannendes Gespräch mit einem Mitbewohner der Mitarbeiterwohnung des Spitals. Seinen Namen will ich hier nicht nennen. Nach diversen Themenwechseln kamen wir schliesslich beim kritischen Denken an. Wir waren uns auf Anhieb einig, dass kritisches Denken eine sehr wichtige Kompetenz ist, jedoch verstanden wir unter diesem Begriff nicht die gleiche Sache. Im Verlauf des Gesprächs zeige sich nämlich, dass seine Ansichten ganz grundsätzlich den gängigen Mehrheitsmeinungen in unserem Land zu widersprechen scheinen. Coronaimpfung? Salzwasser! Trump? Der beste Präsident, den die USA je hatten! Europa? Eine Kolonie der Amerikaner! Diese Liste liesse sich noch lange weiterführen, praktisch bei allen politischen Aktualitäten ist die Meinung der Beispielperson das genaue Gegenteil der Mehrheitsmeinung. Nun habe ich erwähnt, dass ich die beiden Begriffe kognitive Verzerrung und Heuristik daran aufzeigen will. Zuerst zu den Heuristiken: Ein Beispiel dafür findet sich bei der Aussage, Europa sei eine Kolonie der Amerikaner. Diese Aussage wurde mit dem Argument gestützt, dass das amerikanische Militär viele Basen in ganz Europa habe. Das ist auch korrekt, doch der Fehler findet sich in der Schlussfolgerung: Eine fremde Militärbasis (oder auch ganz viele davon) bedeutet noch lange nicht, dass so eine Kolonie errichtet wurde. Genau dies ist ein Beispielprozess für die Entstehung einer Heuristik: Mit begrenztem Wissen wird dennoch ein akzeptables Ereignis erreicht, welche allfällige Vorurteile – oder auch einen Hang zu Verschwörungstheorien – stützt. Eine Art der kognitiven Verzerrung, welche zu diesem Beispiel passt, heisst Snob-Effekt. Dieser Effekt ist das Gegenteil des weitherum bekannten Mitläufereffekts, und die betroffene Person versucht, sich von anderen abzuheben und einmalig zu erscheinen. Der Snob-Effekt zeigt sich in diesem Beispiel in der Tatsache, dass die Meinung des Betroffenen zu politischen Themen stets das genaue Gegenteil der Mehrheit und der Meinung der Medien darstellt.
 
 {{<box>}}
-In dieser Box können Texte, Bilder, Videos oder andere Inhalte dargestellt werden.
-{{</box>}}
-
-`{{</*box*/>}}`  
-Der Inhalt einer Box muss wie hier von zwei Blöcken umgeben werden.  
-`{{</*/box*/>}}`
-
-{{<box title="Ausklappbare Box">}}
-Wird ein Titel angegeben, so kann die Box ausgeklappt werden.
-
-Dies eignet sich auch für längere Inhalte.
-
-![](/img/default-image.jpg)
-
-Auch Bilder können in eine Box gepackt werden.
-{{</box>}}
-
-`{{</*box title="Ausklappbare Box"*/>}}`  
-Wird ein Titel angegeben, so kann die Box ausgeklappt werden.  
-`{{</*/box*/>}}`
-
-## Video, Audio und andere Medien einbetten
-
-Es kann auch `HTML-Code` eingefügt werden. Manchmal geht dies etwas einfacher, wenn man dazu in den `Markdown`-Modus wechselt.
-
-Damit können zum Beispiel Filme, Audiodateien oder Karten eingebettet werden. Meist sind auf den entsprechenden Plattformen (YouTube, Vimeo, Google Maps, etc.) entsprechende Code-Ausschnitte vorbereitet, die man direkt in den Blog einfügen kann. Am besten auf der jeweiligen Plattform nach einem Knopf für `embed` oder `share` suchen.
-
-Bei Videos ist es ideal, wenn sie sich automatisch **an die Bildschirmgrösse anpassen**. Dies geht am einfachsten mit den hinterlegten YouTube- und Vimeo-Codes:
-
-### YouTube einbetten
-
-Einbetten von YouTube-Videos mit dem Code: `{{</*youtube video_id*/>}}`
-
-(Die `video_id` steht bei jedem YouTube-Video in der Browser-URL.)
-
-{{<youtube kQjtK32mGJQ>}}
-
-### Vimeo einbetten
-
-Einbetten von Vimeo-Videos geht mit dem Code: `{{</*vimeo video_id*/>}}`
-
-{{<vimeo 194276412>}}
-
-### Code und Code-Blöcke
-
-Mit dem Code-Symbol `<>` können Wörter auf `diese Art` hervorgehoben werden. Dies wird zum Beispiel für Tastenkombinationen wie `ctrl+s` oder für `Programmiercode` verwendet. Auch Math-Formeln können so ausgedrückt werden: `y = mx + b`.
-
-Für längere solche Abschnitte verwendet man am besten das Code-Block-Symbol. Damit wird ein solcher Block erstellt:
-
-```
-const sun1 = "sun" + "il";
-const sun2 = "su" + "n" + "il";
-sun1 === sun2;
-```
-
-## Spass haben
-
-😀 Viel Spass mit deinem Blog!
+Das Verfassen dieses Blogs verlief für mich teilweise etwas schleppend, da die Arbeit daran während einigen Wochen brach lag. Für den zweiten Teil sah ich ursprünglich ein anderes Thema vor, aufgrund meiner Begegnung während der Praktikumswochen verwarf ich diese Idee jedoch. Während der Arbeit reflektierte ich mehrmals meine Gedankengänge, um nicht möglicherweise noch selbst irgendwelchen Verzerrungen zu unterliegen. Als Quelle verwendete ich das Skript und das Internet, KI nutzte ich nicht. 
+{{<box>}}
