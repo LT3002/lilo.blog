@@ -3,6 +3,7 @@ title = "Weshalb tat es Marie, weshalb tun's Andere?"
 date = "2024-04-21"
 draft = false
 pinned = false
+tags = ["Deutsch", "Woyzeck"]
 +++
 ## Weshalb geschah Marie's Affäre, weshalb geschehen andere?
 
