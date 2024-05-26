@@ -2,7 +2,7 @@
 title = "Die Zeit vergeht, doch der Humor besteht…?"
 date = "2024-05-26"
 draft = false
-pinned = false
+pinned = true
 tags = ["Deutsch", "Kafka"]
 image = "kafka-1.jpg"
 +++
