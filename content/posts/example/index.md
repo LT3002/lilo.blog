@@ -1,6 +1,6 @@
 +++
 title = "Blogeintrag zum kritischen Denken"
-date = "2023-01-01"
+date = "2024-05-26"
 draft = false
 pinned = false
 tags = ["Deutsch", "KritischesDenken"]
