@@ -1,5 +1,5 @@
 +++
-title = "Blogeintrag zum kritischen Denken"
+title = "Kritisches Denken: Was ist das überhaupt?"
 date = "2024-05-26"
 draft = false
 pinned = false
@@ -8,10 +8,6 @@ image = ""
 description = ""
 footnotes = ""
 +++
-# Kritisches Denken: Was ist das überhaupt?
-
-### Kritisches Denken ist aktuell wichtiger denn je: Verschwörungstheorien auf der einen Seite, Fake-News auf der Anderen. Und irgendwo dazwischen muss es uns dennoch gelingen, Spreu von Weizen, beziehungsweise Wahrheit von Lüge zu trennen.
-
 ## Der Mittelweg
 
 Zwei wichtige Begriffe haben uns begleitet: Der Nihilismus und der Dogmatismus. Diese beiden Begriffe beschreiben zwei Extreme, zwischen welchen es einen Mittelweg zu finden gilt. Der Nihilismus beschreibt die Ablehnung jeglicher Wahrheit. Da der Kern des kritischen Denkens darin besteht, die Wahrheit zu finden, ist der Nihilismus aufgrund seiner Ablehnung einer jeden Wahrheit nicht mit dem kritischen Denken vereinbar. Doch auch der Dogmatismus, das Gegenteil des Nihilismus, eckt gegenüber dem kritischen Denken an. Unter dem Begriff Dogma versteht man einen feste Aussage, deren Wahrheitsanspruch als indiskutabel und unumstösslich angesehen wird. Auch der Dogmatismus ist nicht vereinbar mit dem kritischen Denken, da mit dem kritischen Denken zu einem gesunden Mass auch bestehendes hinterfragt werden soll. Und so kristallisiert sich das kritische Denken als Mittelweg zwischen Dogmatismus und Nihilismus heraus: Eine absolute, nicht hinterfragte Wahrheit wird hinterfragt, doch auch das kategorische Ablehnen von Wahrheiten wird nicht praktiziert.
