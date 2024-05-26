@@ -1,7 +1,7 @@
 +++
 title = "Die Zeit vergeht, doch der Humor besteht…?"
 date = "2024-05-26"
-draft = true
+draft = false
 pinned = false
 +++
 ### Was ist passiert?
