@@ -4,6 +4,7 @@ date = "2024-04-21"
 draft = false
 pinned = false
 tags = ["Deutsch", "Woyzeck"]
+image = "woyzeckk.jpg"
 +++
 ### Was haben wir getan?
 
