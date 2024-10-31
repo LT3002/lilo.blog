@@ -1,0 +1,21 @@
++++
+title = "So und nicht anders - Dogmatismus gestern und heute"
+date = "2024-10-31"
+draft = false
+pinned = false
+tags = ["NathanDerWeise", "Lessing", "Deutsch"]
+image = "hardopfu.webp"
++++
+\-Überarbeitung hängig!-
+
+## Was haben wir gemacht?
+
+Der Deutschunterricht in den vergangenen Wochen war einem absoluten Klassiker gewidmet: Nathan der Weise, geschrieben von Gotthold Ephraim Lessing.  Nathan der Weise spielt in Jerusalem während einem Waffenstillstand zur Zeit des dritten Kreuzzuges. Als am Anfang des Werks der jüdische Kaufmann Nathan von einer Geschäftsreise zurückkehrt, erfährt er, dass seine Pflegetochter Recha von einem christlichen Tempelherrn aus Nathans brennendem Haus gerettet wurde, das während seiner Absenz in Brand geriet. Der Tempelherr wiederum verdankt sein Leben wiederum dem Sultan Saladin, welcher ihn aufgrund seiner Ähnlichkeit zu seinem verschollenen Bruder Assad von der Hinrichtung bewahrte. Recha, die Pflegetochter Nathans, lebt trotz ihrer christlichen Konfession unter der Ägide ihres jüdischen Pflegevaters Nathan. Da Nathan ein überzeugter Verfechter der religiösen Toleranz ist, erzieht er Recha jedoch nicht fortan als Jüdin, sondern überlässt sie hinsichtlich ihrer Religionszugehörigkeit sich selbst. Da die Stadt Jerusalem für alle drei monotheistischen Weltreligionen sehr wichtig ist, findet natürlich auch das Christentum Einzug in das Werk. Dies geschieht, neben dem Tempelherrn, mit dem Patriarchen - dieser bekleidet das Amt des ranghöchsten Christen in Jerusalem. Auch er unterliegt allerdings dem Sultan Saladin. Der Patriarch verkörpert in Lessings 'Nathan der Weise' genau diese Denkweise, die Lessing mit diesem Werk zu kritisieren gedenkt: der Fundamentalismus.
+
+ 
+
+## …und heutzutage?
+
+Zwischen der Zeit Nathans, Rechas und den restlichen Figuren besagter Geschichte und unserer liegen Jahrhunderte. Vieles hat sich verändert, einiges ist geblieben - darunter auch der Dogmatismus. Dieser ist auch noch heutzutage im politischen Diskurs anzutreffen. Ein prominentes Beispiel dafür liefert die Debatte rund um eine der nationalen Vorlagen, über welche das Stimmvolk am 24. November dieses Jahres abstimmen darf: der Autobahnausbau. Die Befürworter, allen voran Bundesrat Albert Rösti mit seinem Departement, sagen: Die Autobahnen sind überlastet. Die Bevölkerung der Schweiz wächst zudem, was zwangsläufig zu Mehrverkehr führen wird. Mit einem Kapazitätsausbau an ausgewählten Stellen im Nationalstrassennetz könnte diesen Problemen jedoch angemessen begegnet werden - man müsste dafür lediglich fünf Milliarden Franken in die Hand nehmen. Anschliessend, nach einigen Jahren und Jahrzehnten der Bauarbeiten wären die Autobahnen gerüstet für die Zukunft.  Doch diese Geschichte hat einen eklatanten Haken! Denn der Ausbau der Kapazität von Verkehrsträgern führt, wie seit Jahrzehnten wissenschaftlich erwiesen ist, über längere Dauer zu erheblichem Mehrverkehr - man spricht hier von induziertem Verkehr. Und dennoch wird von den Befürwortern dieser Vorlage schon fast gebetsartig die Botschaft wiederholt, dass die bestehenden Stauprobleme nur durch einen massiven Ausbau der Autobahnen unter Kontrolle zu bekommen seien.
+
+ Weshalb aber kann dieser Sachverhalt als Beispiel für den Dogmatismus in unserer aktuellen Zeit gesehen werden? Ein wichtiges Charakteristikum des Dogmatismus besteht darin, dass Überzeugungen und vorgetragene Argumente nicht kritisch hinterfragt werden. Ferner ist die Absenz von Offenheit gegenüber neuen Ideen oder Kompromissen ein weiteres Indiz für das Vorhandensein eines Dogmas. Diese beiden Charakteristika sind auch in der Debatte rund um den Autobahnausbau anzutreffen. So wird der Fakt, dass Kapazitätsausbauten mittelfristig einen Mehrverkehr induzieren, von den Befürwortern nicht diskutiert. Auch dass das eigentliche Ziel - die Reduktion von Staustunden - nicht durch Ausbauten erreicht werden kann, ist erwiesen. Und dennoch wird an diesen Argumenten festgehalten, um im November an der Urne ein Ja zu erzielen.
